@@ -70,7 +70,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1513" y="-1206"/>
+            <point key="canvasLocation" x="-2565" y="-2202"/>
         </scene>
         <!--Property Main Controller - 物业-->
         <scene sceneID="6Ur-hm-E4U">
@@ -85,14 +85,39 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VYb-PC-eEF">
-                                <rect key="frame" x="137" y="185" width="46" height="30"/>
+                                <rect key="frame" x="10" y="106" width="67" height="69"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button">
+                                <color key="backgroundColor" red="0.74117647060000003" green="0.74117647060000003" blue="0.74117647060000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="社区公告">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
                                     <segue destination="c4P-vL-vxd" kind="push" id="LgG-vh-EfH"/>
                                 </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ldI-gP-SZv">
+                                <rect key="frame" x="85" y="106" width="67" height="69"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.74117647060000003" green="0.74117647060000003" blue="0.74117647060000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="社区黄页">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Upp-hL-C2B">
+                                <rect key="frame" x="165" y="106" width="67" height="69"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.74117647060000003" green="0.74117647060000003" blue="0.74117647060000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="物业缴费">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gk7-Gp-Noe">
+                                <rect key="frame" x="240" y="106" width="67" height="69"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.74117647060000003" green="0.74117647060000003" blue="0.74117647060000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="社区公告">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -102,7 +127,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Wtp-3q-4f1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4" y="-1002"/>
+            <point key="canvasLocation" x="-1036" y="-1906"/>
         </scene>
         <!--View Controller - 物业-01-->
         <scene sceneID="HU0-F4-Mbu">
@@ -121,7 +146,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xwH-5f-ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="504" y="-1007"/>
+            <point key="canvasLocation" x="-536" y="-1911"/>
         </scene>
         <!--Sign Up View Controller - 注册-->
         <scene sceneID="pDv-f2-GEh">
@@ -213,7 +238,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nKl-4I-Ejs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-605" y="-1697"/>
+            <point key="canvasLocation" x="-1566" y="-2601"/>
         </scene>
         <!--Sign Up View Controller01 - 注册-->
         <scene sceneID="oj9-eA-at4">
@@ -255,7 +280,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="00C-Jh-EoN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-219" y="-1697"/>
+            <point key="canvasLocation" x="-1036" y="-2601"/>
         </scene>
         <!--Sign Up View Controller02 - 注册-->
         <scene sceneID="xi3-v4-dVK">
@@ -288,7 +313,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jAB-eM-90R" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="165" y="-1697"/>
+            <point key="canvasLocation" x="-536" y="-2601"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="foG-Bq-eY5">
@@ -307,7 +332,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Hvs-xU-RIc" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-980" y="-1697"/>
+            <point key="canvasLocation" x="-2020" y="-2601"/>
         </scene>
         <!--Life Support Main Controller - 生活配套-->
         <scene sceneID="j6p-hs-Luk">
@@ -327,7 +352,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="MZF-tA-Cuc" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4" y="-385"/>
+            <point key="canvasLocation" x="-1036" y="-1289"/>
         </scene>
         <!--Navigation Controller - 物业-->
         <scene sceneID="crr-vY-Ull">
@@ -346,7 +371,39 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Y8y-Qz-4b7" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-980" y="-1002"/>
+            <point key="canvasLocation" x="-2020" y="-1906"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="fqF-nb-yMC">
+            <objects>
+                <viewController id="mlv-VS-Fj4" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="VCz-vT-AwH"/>
+                        <viewControllerLayoutGuide type="bottom" id="aD6-qp-tKA"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="2zQ-RB-7eS">
+                        <rect key="frame" x="0.0" y="64" width="320" height="367"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="dQ1-Bx-FPm">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="367"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <view key="tableHeaderView" contentMode="scaleToFill" id="tvv-10-gel">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                </view>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics" translucent="NO"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zCU-w0-IxA" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2020" y="-1279"/>
         </scene>
         <!--Social Main Controller - 社交-->
         <scene sceneID="JKa-hS-f5L">
@@ -366,7 +423,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EBR-Yw-jdJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4" y="226"/>
+            <point key="canvasLocation" x="-1036" y="-678"/>
         </scene>
         <!--Security Main Controller - 安全-->
         <scene sceneID="q3f-Uz-AY2">
@@ -386,7 +443,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="clc-SC-pSX" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4" y="842"/>
+            <point key="canvasLocation" x="-1036" y="-62"/>
         </scene>
         <!--Personal Main Controller - 个人中心-->
         <scene sceneID="ubZ-eu-lJE">
@@ -406,7 +463,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PZF-lD-RDU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4" y="1426"/>
+            <point key="canvasLocation" x="-1036" y="522"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="cgs-Uq-n1s">
@@ -429,7 +486,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hVB-mK-c4s" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-526" y="-1002"/>
+            <point key="canvasLocation" x="-1566" y="-1906"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
