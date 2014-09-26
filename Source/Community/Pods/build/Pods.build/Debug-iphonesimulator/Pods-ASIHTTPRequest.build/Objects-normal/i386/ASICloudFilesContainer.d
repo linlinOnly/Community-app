@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainer.m \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainer.h
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainer.m \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/CloudFiles/ASICloudFilesContainer.h

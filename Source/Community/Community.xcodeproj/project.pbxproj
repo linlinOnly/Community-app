@@ -31,6 +31,8 @@
 		7CD7F49A19D4F426008D9141 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7CD7F49819D4F426008D9141 /* InfoPlist.strings */; };
 		7CD7F49C19D4F426008D9141 /* CommunityTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CD7F49B19D4F426008D9141 /* CommunityTests.m */; };
 		A66641B669CF455BAAF2F54A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B1D951DF1DD041DB8D9D6A11 /* libPods.a */; };
+		F0F388C719D616ED00990797 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F388C619D616ED00990797 /* HomeViewController.m */; };
+		F0F388CA19D6199400990797 /* QMNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0F388C919D6199400990797 /* QMNavigationController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +85,10 @@
 		7CD7F49919D4F426008D9141 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7CD7F49B19D4F426008D9141 /* CommunityTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CommunityTests.m; sourceTree = "<group>"; };
 		B1D951DF1DD041DB8D9D6A11 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0F388C519D616ED00990797 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		F0F388C619D616ED00990797 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		F0F388C819D6199400990797 /* QMNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QMNavigationController.h; sourceTree = "<group>"; };
+		F0F388C919D6199400990797 /* QMNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QMNavigationController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +140,8 @@
 			children = (
 				7CB6316F19D5256800334193 /* QMViewController.h */,
 				7CB6317019D5256800334193 /* QMViewController.m */,
+				F0F388C819D6199400990797 /* QMNavigationController.h */,
+				F0F388C919D6199400990797 /* QMNavigationController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -163,6 +171,8 @@
 		7CB6317B19D5276A00334193 /* MainUI */ = {
 			isa = PBXGroup;
 			children = (
+				F0F388C519D616ED00990797 /* HomeViewController.h */,
+				F0F388C619D616ED00990797 /* HomeViewController.m */,
 				7CB6317E19D529B300334193 /* Property */,
 				7CB6317C19D529B300334193 /* LifeSupport */,
 				7CB6318019D529B300334193 /* Social */,
@@ -430,11 +440,13 @@
 				7CB6318919D52C7400334193 /* SocialMainController.m in Sources */,
 				7CB6317719D525B900334193 /* SignUpViewController01.m in Sources */,
 				7CB6317419D5259200334193 /* SignUpViewController.m in Sources */,
+				F0F388CA19D6199400990797 /* QMNavigationController.m in Sources */,
 				7CD7F48119D4F425008D9141 /* AppDelegate.m in Sources */,
 				7CB6318F19D52CBE00334193 /* PersonalMainController.m in Sources */,
 				7CB6317A19D5264200334193 /* SignUpViewController02.m in Sources */,
 				7CB6317119D5256800334193 /* QMViewController.m in Sources */,
 				7CD7F47D19D4F425008D9141 /* main.m in Sources */,
+				F0F388C719D616ED00990797 /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

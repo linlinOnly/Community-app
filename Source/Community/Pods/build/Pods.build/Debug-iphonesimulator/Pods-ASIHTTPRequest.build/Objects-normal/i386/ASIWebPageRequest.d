@@ -1,12 +1,12 @@
 dependencies: \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.m \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.h \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIHTTPRequest.h \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIHTTPRequestConfig.h \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIHTTPRequestDelegate.h \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIProgressDelegate.h \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASICacheDelegate.h \
-  /Users/strongsoft/Documents/外包/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASINetworkQueue.h \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.m \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIWebPageRequest/ASIWebPageRequest.h \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIHTTPRequest.h \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIHTTPRequestConfig.h \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIHTTPRequestDelegate.h \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASIProgressDelegate.h \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASICacheDelegate.h \
+  /Users/QiMengJin/Documents/QiMeng_LYS/GitHub/Community-app/Source/Community/Pods/ASIHTTPRequest/Classes/ASINetworkQueue.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/HTMLparser.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlversion.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlexports.h \

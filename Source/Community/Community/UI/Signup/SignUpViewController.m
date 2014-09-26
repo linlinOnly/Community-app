@@ -29,6 +29,14 @@
     // Do any additional setup after loading the view.
 }
 
+- (IBAction)touchBack:(id)sender{
+    
+    [self dismissViewControllerAnimated:YES completion:^{}];
+    
+}
+
+
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
